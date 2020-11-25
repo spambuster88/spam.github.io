@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Kevin Pedron</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="Kevin Pedron - Art Direction, Web &amp; Type Design">
+	<meta name="keywords" content="Kevin Pedron, Kevin, Pedron, Creative Direction, Art Direction, Graphic Design, Web Design, Type Design">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+	<link rel="shortcut icon" href="images/dallas_ico.png">
+    <link rel="apple-touch-icon" href="images/dallas_ico.png">
+    
+    <link rel="stylesheet" type="text/css" href="reset.min.css" charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="kevin.css" charset="utf-8"/>
+    
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+	<p>
+		Kevin Pedron
+		<br/>
+		Art Direction, Web & Type Design
+		<br/><br/>
+		Co-founder with <a href="http://hellofrancescovaltolina.com/" target="_blank">Francesco Valtolina</a> of <a href="http://dallasdallas.xyz/" target="_blank">Dallas</a>, a Creative Direction and Graphic Design studio based in Milan.<br/>
+		Dallas works for a diverse range of clients–from individuals to institutions–focusing on Creative Direction, print, identity, exhibition and interactive design across various media.
+		<br/><br/>
+		Assistant Lecturer at Politecnico di Milano.
+		<br/><br/>
+		Via C. Farini, 63
+		<br/>
+		20159 Milano
+		<br/><br/>
+		<a href="mailto:kevin.maria.pedron@gmail.com?subject=Info :">Mail</a>
+		<br/>
+		T. +39 388 900 95 99
+		<br/><br/>
+	</p>
+	<p style="display: none;">
+		Latest :
+		<br/>
+		<a href="http://ma-ad.ch/the-derby-club/" target="_blank" class="link">The Derby Club</a><span class="with">Photography : Karol Sudolski and Claudia Zalla</span>
+		<br/>
+		<a href="http://www.rafaelkouto.com" target="_blank" class="link">Rafael Kouto</a><span class="with">Art Direction : Bonaventure and Niederhauser</span>
+		<br/>
+		<a href="http://www.adventice-editions.com" target="_blank" class="link">Adventice Editions</a><span class="with">Art Direction : Bonaventure and Niederhauser</span>
+		<br/>
+		<a href="http://terrazzoproject.com" target="_blank">Terrazzo Project</a>
+		<br/><br/>
+		<a href="download/kevin_pedron.pdf" target="_blank">CV</a>
+	</p>
+
+<script>
+jQuery(document).ready(function() {
+	
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	// do nothing
+} else {
+	$('.link').hover(
+		function() {
+			var $this = $(this); // caching $(this)
+			var $with = $(this).next(".with").text(); //caching credits
+			$this.data('initialText', $this.text());
+			$this.text($with);
+		},
+		function() {
+			var $this = $(this); // caching $(this)
+			$this.text($this.data('initialText'));
+		}
+	);
+}
+		
+});
+</script>
+
+<!--google analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18227524-1', 'kevinpedron.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+
+</html>

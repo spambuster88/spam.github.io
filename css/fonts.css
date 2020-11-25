@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'Union Regular';
+	src: url('../fonts/Union Regular/Union Regular.eot');
+	src: local('☺'), url('../fonts/Union Regular/Union Regular.woff') format('woff'), url('../fonts/Union Regular/Union Regular.ttf') format('truetype'), url('../fonts/Union Regular/Union Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

@@ -1,0 +1,104 @@
+Uri: http://www.yesalternativepress.com/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index.htm
+Content Type: text/html
+
+Uri: http://www.yesalternativepress.com/images/YES-small.gif
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\images\YES-small.gif
+Content Type: image/gif
+
+Uri: http://www.yesalternativepress.com/css/fonts.css
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\css\fonts.css
+Content Type: text/css
+
+Uri: http://www.yesalternativepress.com/css/jquery.mCustomScrollbar.css
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\css\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: http://www.yesalternativepress.com/css/yes.css
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\css\yes.css
+Content Type: text/css
+
+Uri: http://www.colli-independent.com/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-1.htm
+Content Type: text/html
+
+Uri: http://dallasdallas.xyz/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-2.htm
+Content Type: text/html
+
+Uri: http://www.dextersinister.org/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-3.htm
+Content Type: text/html
+
+Uri: http://www.experimentaljetset.nl/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-4.htm
+Content Type: text/html
+
+Uri: http://adela-pauline.net/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-5.htm
+Content Type: text/html
+
+Uri: http://www.batiasuter.org/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/YESYESYESALTERNATIVEPRESS?fref=ts
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\YESYESYESALTERNATIVEPRESS.html
+Content Type: text/html
+
+Uri: http://www.dallasdallas.xyz/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-8.htm
+Content Type: text/html
+
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\ajax\libs\jquery\1.11.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://www.yesalternativepress.com/js/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: http://www.yesalternativepress.com/js/html5shiv-printshiv.js
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\js\html5shiv-printshiv.js
+Content Type: application/javascript
+
+Uri: http://www.yesalternativepress.com/js/yes.js
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\js\yes.js
+Content Type: application/javascript
+
+Uri: http://www.yesalternativepress.com/images/yesyesyes.svg
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\images\yesyesyes.svg
+Content Type: image/svg+xml
+
+Uri: http://www.yesalternativepress.com/fonts/Union Regular/Union Regular.eot
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\fonts\Union Regular\Union Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.yesalternativepress.com/fonts/Union Regular/Union Regular.woff
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\fonts\Union Regular\Union Regular.woff
+Content Type: application/font-woff
+
+Uri: http://www.yesalternativepress.com/fonts/Union Regular/Union Regular.ttf
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\fonts\Union Regular\Union Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://www.yesalternativepress.com/fonts/Union Regular/Union Regular.svg
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\fonts\Union Regular\Union Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://en.wikipedia.org/wiki/Will_Holder_(designer)
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\wiki\Will_Holder_(designer).html
+Content Type: text/html
+
+Uri: http://www.prillviecelicremers.ch/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/yesyesyes_alternativepress/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\yesyesyes_alternativepress\index.htm
+Content Type: text/html
+
+Uri: http://www.kevinpedron.com/hello/
+File Name: C:\Downloaded Web Sites\www.yesalternativepress.com\hello\index.htm
+Content Type: text/html
+
